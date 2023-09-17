@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Uday Pratap Yadav</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h1 >Hi 👋, I'm Uday Pratap Yadav</h1>
+<h3 >A passionate Full Stack developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/udayprtapyadaw" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/udayprtapyadaw?logo=twitter&style=for-the-badge" alt="https://twitter.com/udayprtapyadaw" /></a> </p>
 
