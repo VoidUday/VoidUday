@@ -67,14 +67,19 @@
 </div>
 
 ###
-
-<h3 align="left">🔥   My Stats :</h3>
+<!-- <h3 align="left">🔥   My Stats :</h3>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=voiduday&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-<!--   <img src="https://streak-stats.demolab.com?user=voiduday&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> -->
-</div>
+<!--   <img src="https://streak-stats.demolab.com?user=voiduday&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>  -->
+
+# <h3>📊 GitHub Stats:</h3>
+
+![](https://github-readme-stats.vercel.app/api?username=voiduday&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=voiuday&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=voiduday&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ###
