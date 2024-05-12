@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Uday Pratap Yadav<br><br>- 🔭 I’m working as a Frontend Developer at Wipro<br>- 📚 I'm currently learning Full Stack Development.<br>- ⚡ In my free time love to share my life learning experience on Twitter(X).</p>
+<p align="left">I'm Uday Pratap Yadav<br><br>- 🔭 I’m working as a Full Stack Developer at Wipro<br>-⚡ In my free time love to share my life learning experience on Twitter(X).</p>
 
 ###
 
